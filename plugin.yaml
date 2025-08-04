@@ -1,0 +1,8 @@
+plugin:
+    name: 'beltechsoft.compareshopaholic::lang.plugin.name'
+    description: 'beltechsoft.compareshopaholic::lang.plugin.description'
+    author: Beltechsoft
+    icon: icon-smile-o
+    homepage: ''
+navigation:
+permissions:

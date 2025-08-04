@@ -1,0 +1,8 @@
+{
+    "name": "beltechsoft/comparehopaholic-plugin",
+    "type": "october-plugin",
+    "description": "Plugin for OctoberCMS",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
