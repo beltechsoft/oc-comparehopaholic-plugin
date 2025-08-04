@@ -1,5 +1,5 @@
 {
-    "name": "beltechsoft/comparehopaholic-plugin",
+    "name": "beltechsoft/compareshopaholic-plugin",
     "type": "october-plugin",
     "description": "Plugin for OctoberCMS",
     "require": {
